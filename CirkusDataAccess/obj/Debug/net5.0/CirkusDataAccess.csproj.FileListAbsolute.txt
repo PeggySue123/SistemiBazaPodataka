@@ -1,0 +1,36 @@
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.deps.json
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.pdb
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csprojAssemblyReference.cache
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.pdb
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.deps.json
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.pdb
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csprojAssemblyReference.cache
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfoInputs.cache
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfo.cs
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.pdb
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.deps.json
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.pdb
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csproj.AssemblyReference.cache
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfoInputs.cache
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfo.cs
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\Peggy Sue\Desktop\Završeni ispiti\Sistemi baza podataka\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.pdb
